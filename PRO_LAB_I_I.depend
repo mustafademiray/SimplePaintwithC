@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1480279776 source:c:\users\musty\desktop\pro_lab_i_i\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<math.h>
+	<bitmap_image.hpp>
+
