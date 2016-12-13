@@ -1,2 +1,2 @@
-# SimplePaintwithC
-Simple Paint Program with C Programming Language 
+
+Simple Paint Program with C Programming Language.
