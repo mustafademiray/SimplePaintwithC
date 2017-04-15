@@ -348,7 +348,7 @@ void sol_tik()
             rectangle(a,b,x,y);
         }
         else if(x>260 && x<290 && y>15 && y<30){
-            printf("silgi tiklandi\n");
+            printf("silgi tiklandi \n");
             kalem = false;
             dogru = false;
             dortgen = false;
